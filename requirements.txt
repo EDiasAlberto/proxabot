@@ -13,7 +13,7 @@ chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
 colors.py==0.2.2
-cryptography==3.1.1
+cryptography==3.3.2
 cx-Freeze==6.2
 cycler==0.10.0
 decorator==4.4.2
