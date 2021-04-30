@@ -80,7 +80,7 @@ pytz==2020.1
 pyzmq==20.0.0
 requests==2.24.0
 requests-toolbelt==0.7.0
-rsa==4.6
+rsa==4.7
 semantic-version==2.8.5
 six==1.15.0
 soupsieve==2.0
